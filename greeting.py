@@ -3,7 +3,7 @@ import streamlit as st
 # Title and Author
 st.set_page_config(page_title="Calculator ", layout="centered")
 st.markdown("##  Calculator App")
-st.markdown("### Developed by *Naveed Shahid*")
+st.markdown("###  *Naveed Shahid*")
 
 st.markdown("""
     <style>
